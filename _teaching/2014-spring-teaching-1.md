@@ -1,20 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+link: '<a href= "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221">CPSC 221: Algorithms and Data Structures</a>'
+venue: "UBC, Department of Computer Science"
+date: 2020-01-01
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
