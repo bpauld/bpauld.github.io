@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my CV in pdf format [here](https://bpauld.github.io/files/resume.pdf)
+You can find my CV in pdf format [here](https://bpauld.github.io/files/resume.pdf).
 
 Education
 ======
 * M.Sc. (2nd year) in Mathematics, Paris-Saclay University, 2021 (expected).
 * M.Sc. (1st year) in Computer Science (first year), UBC, 2020.
+  * Supervisor: [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/).
 * B.Sc. in Mathematics and Computer Science, McGill University, 2018.
+  * Supervisor: [Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/).
 
 Work experience
 ======
@@ -61,4 +63,4 @@ Awards
 Extra-Curricular
 =====
 I am a huge basketball fan. I have been playing competitively since I was 8 years old.\
-I currenly play point guard at [Basket Paris 14](https://basketparis14.com/)!
+I currenly play point guard for [Basket Paris 14](https://basketparis14.com/)!
