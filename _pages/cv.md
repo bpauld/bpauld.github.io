@@ -13,19 +13,23 @@ Education
 ======
 * B.Sc. in Mathematics and Computer Science, McGill University, 2018
 * M.Sc. in Computer Science (first year), UBC, 2019
-* M.Sc. in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Mathematics, Paris-Saclay University, 2021 (expected)
 
 Work experience
 ======
 * Summer 2020: Research Assistant
   * UBC
-  * Project: Hyperparameter free variance reduction.
-  * Supervisor: Sharan Vaswani
+  * Project: Hyperparameter-free variance reduction.
+  * Supervisor: [Sharan Vaswani](https://vaswanis.github.io/).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2019: Data Science Intern
+  * Giro Inc, Montreal, Canada.
+  * Duties included: Retrieving, cleaning, formatting data. Impletement, train and compare machine learning algorithms.
+  
+* Summer 2018: Research Assistant
+  * McGill University
+  * Project: Newton's method for the Fermat-Weber problem under "weighted" euclidean norm.
+  * Supervisor: [Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/).
   
 Skills
 ======
@@ -36,7 +40,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
