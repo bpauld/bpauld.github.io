@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. (2nd year) in Mathematics, Paris-Saclay University, 2021 (expected)
-* M.Sc. (1st year) in Computer Science (first year), UBC, 2020
-* B.Sc. in Mathematics and Computer Science, McGill University, 2018
+* M.Sc. (2nd year) in Mathematics, Paris-Saclay University, 2021 (expected).
+* M.Sc. (1st year) in Computer Science (first year), UBC, 2020.
+* B.Sc. in Mathematics and Computer Science, McGill University, 2018.
 
 Work experience
 ======
@@ -23,8 +23,9 @@ Work experience
   * Supervisor: [Sharan Vaswani](https://vaswanis.github.io/).
 
 * Winter 2019: Data Science Intern
-  * Giro Inc, Montreal, Canada.
-  * Duties included: Retrieving, cleaning, formatting data. Impletement, train and compare machine learning algorithms.
+  * Giro Inc., Montreal, Canada.
+  * Retrieving, cleaning, formatting data in order to better optimize bus schedules.
+  * Built a pipeline to easily implement, train and compare different machine learning algorithms on specific classification tasks.
   
 * Summer 2018: Research Assistant
   * McGill University
