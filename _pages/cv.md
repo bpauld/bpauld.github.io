@@ -60,5 +60,5 @@ Awards
 
 Extra-Curricular
 =====
-I am a huge basketball fan. I have been playing competitively since I was 8 years old.\\
+I am a huge basketball fan. I have been playing competitively since I was 8 years old.\
 I currenly play point guard at [Basket Paris 14](https://basketparis14.com/)!
