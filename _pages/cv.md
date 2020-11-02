@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
+* M.Sc. (2nd year) in Mathematics, Paris-Saclay University, 2021 (expected)
+* M.Sc. (1st year) in Computer Science (first year), UBC, 2020
 * B.Sc. in Mathematics and Computer Science, McGill University, 2018
-* M.Sc. in Computer Science (first year), UBC, 2019
-* M.Sc. in Mathematics, Paris-Saclay University, 2021 (expected)
 
 Work experience
 ======
 * Summer 2020: Research Assistant
   * UBC
-  * Project: Hyperparameter-free variance reduction.
+  * Project: Hyperparameter-free variance reduction (to be published).
   * Supervisor: [Sharan Vaswani](https://vaswanis.github.io/).
 
 * Winter 2019: Data Science Intern
@@ -28,17 +28,9 @@ Work experience
   
 * Summer 2018: Research Assistant
   * McGill University
-  * Project: Newton's method for the Fermat-Weber problem under "weighted" euclidean norm.
+  * Project: Newton's method for the Fermat-Weber problem under "weighted" euclidean norms.
   * Supervisor: [Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/).
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Research
 ======
@@ -58,6 +50,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Internation Tuition Award, UBC.
+* Science Undergraduate Research Award (SURA), McGill.
+* Dean's Honour list, McGill.
