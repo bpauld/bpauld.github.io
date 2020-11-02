@@ -1,7 +1,7 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Undergraduate Teaching Assistant: Into to Algorithms"
 collection: teaching
-link: '<a href="https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/">CPSC 532M: Machine Learning and Data Mining</a>'
+link: '<a href="https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221">CPSC221: Introduction to Algorithms</a>'
 venue: "UBC, Department of Computer Science"
-date: 2019-09-01
+date: 2014-09-01
 ---
