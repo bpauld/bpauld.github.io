@@ -1,0 +1,15 @@
+  
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+
+
+<div>
+  <p><a href="{{ base_path }}{{ post.url }}" rel="permalink""><b>{{title}}.</b></a> Published in {{post.venue}}, {% if post.location %}{{post.location}},{% endif %} {{post.year}}. {% if post.location %}<i>(with {{post.with}})</i>{% endif %} [{{ post.links }}] {% if post.slides %}[{{ post.slides }}]{% endif %}</p>
+</div>
