@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can find my CV in pdf format [here](https://bpauld.github.io/files/resume.pdf)
 
 Education
 ======
@@ -24,7 +25,7 @@ Work experience
 
 * Winter 2019: Data Science Intern
   * Giro Inc., Montreal, Canada.
-  * Retrieving, cleaning, formatting data in order to better optimize bus schedules.
+  * Retrieved, cleaned up and formatted data in order to better optimize bus schedules.
   * Built a pipeline to easily implement, train and compare different machine learning algorithms on specific classification tasks.
   
 * Summer 2018: Research Assistant
@@ -56,3 +57,8 @@ Awards
 * Internation Tuition Award, UBC.
 * Science Undergraduate Research Award (SURA), McGill.
 * Dean's Honour list, McGill.
+
+Extra-Curricular
+=====
+I am a huge basketball fan. I have been playing competitively since I was 8 years old.\\
+I currenly play point guard at [Basket Paris 14](https://basketparis14.com/)!
