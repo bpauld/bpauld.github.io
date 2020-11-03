@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my CV in pdf format [here](https://bpauld.github.io/files/Resume(1).pdf).
+You can find my CV in pdf format [here](https://bpauld.github.io/files/Resume (1).pdf).
 
 Education
 ======
