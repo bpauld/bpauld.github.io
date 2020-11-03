@@ -56,7 +56,7 @@ Teaching
   
 Awards
 ======
-* Internation Tuition Award, UBC.
+* International Tuition Award, UBC.
 * Science Undergraduate Research Award (SURA), McGill.
 * Dean's Honour list, McGill.
 
