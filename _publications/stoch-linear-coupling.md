@@ -1,5 +1,5 @@
 ---
-title: "Acceleration with stochastic linear coupling t2"
+title: "Acceleration with stochastic linear coupling t3"
 collection: course_project
 links: '<a href="https://bpauld.github.io/files/Accelerated_Stochastic_linear_coupling.pdf">[pdf]</a>'
 abstract: 'hi'
