@@ -1,5 +1,5 @@
 ---
-title: "SVRG meets AdaGrad: Painless Variance Reduction t6."
+title: "SVRG meets AdaGrad: Painless Variance Reduction t7."
 collection: publications
 year: 2021
 venue: arXiv
