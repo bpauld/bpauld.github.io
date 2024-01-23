@@ -4,7 +4,7 @@ collection: publications
 year: 2022
 venue: ICML (Long Presentation)
 authors: Sharan Vaswani, Benjamin Dubois-Taine, Reza Babanezhad
-links: '<a href="https://arxiv.org/abs/2110.11442">[pdf]</a>'
+links: '<a href="https://arxiv.org/abs/2110.11442">[Paper]</a>'
 abstract: 'hi'
 ---
 
