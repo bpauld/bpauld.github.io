@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher within the Inria [DISCO team](https://team.inria.fr/disco/), working closely with the EDF R&D teams as part of the joint [Inria-EDF challenge](https://www.inria.fr/en/inria-edf). My work focuses on designing large-scale optimization methods for managing power systems.
+I am a postdoctoral researcher within the Inria [Disco team](https://team.inria.fr/disco/), working closely with the EDF R&D teams as part of the joint [Inria-EDF challenge](https://www.inria.fr/en/inria-edf). My work focuses on designing large-scale optimization methods for managing power systems.
 
 Prior to that, I obtained a Ph.D. from [ENS](https://www.di.ens.fr/), where I was part of the Inria [Sierra team](https://sierra-mlopt.github.io/), and was supervised by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/).
 
