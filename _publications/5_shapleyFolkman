@@ -2,7 +2,7 @@
 title: "Frank-Wolfe meets Shapley-Folkman: a systematic approach for solving nonconvex separable problems with linear constraints"
 collection: publications
 year: 2024
-venue: ArXiv
+venue: Mathematical Programming
 authors: Benjamin Dubois-Taine, Alexandre d'Aspremont
 links: '<a href="https://arxiv.org/abs/2406.18282">[Paper]</a><a href="https://github.com/bpauld/NonConvexOpt">[code]</a>'
 abstract: 'hi'
